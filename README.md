@@ -58,7 +58,7 @@
 
 <div>
 <h2> :paperclip: Outras Informações </h2>
-<p>:game_die: Sou mestre de RPG e estou desenvolvendo meu próprio sistema que pretendo lançar em breve. Você pode acompanhar o projeto de uma ficha web que estou desenvolvendo como estudo <a href="https://www.devianna.lat">aqui</a>. O repositório também está pinado aqui no perfil do GitHub.</p>
+<p>:game_die: Sou mestre de RPG e estou desenvolvendo meu próprio sistema que pretendo lançar em breve. Você pode acompanhar o projeto de uma ficha web que estou desenvolvendo como estudo. O repositório está pinado aqui no perfil do GitHub.</p>
 <p>:book: Amo ler, principalmente sagas de fantasia. Sou um apaixonado pelo universo criado pelo Brandon Sanderson e espero até hoje a conclusão da saga do Kvothe do Patrick Rothfuss.</p>
 <p>:video_game: Também amo jogos digitais e sou fã de Final Fantasy. Meu jogo favorito é Final Fantasy Tactics. Também tenho uma vontade grande de fazer um jogo de cartas digital, espero tirar este projeto do papel em breve.</p>
 <p>:airplane: Tenho muita vontade de morar fora do Brasil.</p>
